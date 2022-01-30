@@ -5,3 +5,4 @@ import sympy
 sum(1/np.array(list(sympy.primerange(0, 1000))))
 
 np.log(np.log(1000))+0.26
+
